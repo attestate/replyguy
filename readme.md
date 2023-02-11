@@ -5,6 +5,8 @@
 
 **This software:** A smart contract to post content-addressed comments to a URL.
 
+deployed to ethereum: [0x45087c040150843e44580e5d32a69eddb6a40e26](https://etherscan.io/address/0x45087c040150843e44580e5d32a69eddb6a40e26)
+
 ## what is "replyguy?"
 
 As to monetize my blog, https://proofinprogress.com, I'm considering adding a
