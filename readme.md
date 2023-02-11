@@ -7,7 +7,7 @@
 
 ## what is "replyguy?"
 
-As to monetize my blog, https://proofofprogress.com, I'm considering adding a
+As to monetize my blog, https://proofinprogress.com, I'm considering adding a
 social feature that allows readers to share their opinion under my posts for a
 small bribe. See, on Hacker News, I've have had hundreds of annoying,
 over-familiar or downright patronizing replies about my articles, so I thought:
